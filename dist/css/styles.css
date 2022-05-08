@@ -7347,6 +7347,10 @@ textarea.form-control-lg {
   align-self: stretch !important;
 }
 
+.image {
+  margin-top: -40px;
+}
+
 .order-first {
   order: -1 !important;
 }
@@ -7442,19 +7446,9 @@ textarea.form-control-lg {
   margin-left: auto !important;
 }
 
-
-
 .my-0 {
   margin-top: 0 !important;
   margin-bottom: 0 !important;
-}
-
-.image {
- 
- margin-top: -30px;
- 
-  
- 
 }
 
 .my-1 {
@@ -7950,7 +7944,6 @@ textarea.form-control-lg {
 .text-white {
   --bs-text-opacity: 1;
   color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important;
-  
 }
 
 .text-body {
